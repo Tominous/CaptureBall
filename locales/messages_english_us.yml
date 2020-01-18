@@ -23,12 +23,12 @@ messages:
   not-buyable: "&cNOT BUYABLE"
   free: "&aFREE"
   currency-sign: "$"
-  #crafted: "&eYou crafted Captureball!"
+  crafted: "&eYou crafted Captureball!"
   no-permission: "&cYou don't have permission to do this"
   no-capture-permission: "&cYou don't have permission to capture {0} mob!"
   no-creative-permission: "&cYou don't have permission to do this in creative mode!"
   no-sign-permission: "You don't have permission to use this sign"
-  no-sign-admin-permission: "You don't have sign admin permission to do this"
+  no-sign-admin-permission: "You don't have sign administrator permission to do this"
   # -- These messages shouldn't be removed --
   command: "captureball"
   command-aliases:
