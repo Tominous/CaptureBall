@@ -339,7 +339,7 @@ gui-menus:
 
 # Transfer Ownership not just to Online Players, but Offline Players too!
 # not recommended for HUGE servers, it may lag while taking the data from server.
-offline-transfer-ownership: false
+offline-transfer-ownership: true
 
 # Find players to transfer the ball ownership within radius
 # (set it to -1 to get all players)
@@ -523,7 +523,7 @@ effect: ENDER_SIGNAL
 show-only-necessary-data: true
 
 #Show negative value on item lore (e.g. -1, -149, etc)
-show-negative-value-data: false
+show-negative-value-data: true
 
 #Show all MOB attributes
 show-mob-attributes: true
